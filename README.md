@@ -18,7 +18,8 @@ A beautifully designed login interface with a modern layout and user-friendly ex
 
 ## 📸 Screenshot
 
-![Lovebirds Login Page](./deca9e9c-e1d2-4d31-81c1-b148bec9167a.png)
+![image](https://github.com/user-attachments/assets/0075c2a8-8765-4da9-a512-f234192b3281)
+
 
 ---
 
